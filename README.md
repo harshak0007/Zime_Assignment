@@ -18,11 +18,10 @@ This React application fetches paginated data from a JSON endpoint, populates a 
 
 1. Clone the repository:
 
-   git clone <repository_url>
+   git clone https://github.com/harshak0007/Zime_Assignment.git ./
 
 2. Install dependencies:
 
-   cd <project_directory>
    npm install
 
 ## Usage
